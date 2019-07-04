@@ -18,11 +18,12 @@ public class Proj1 {
 	driver.findElement(By.id("loginbutton")).click();
 	Alert alert=driver.switchTo().alert();
 	alert.accept();
-			
+			//push
 	
 	
 	//WebElement drive=driver.findElement(By.id("userId"));
 	//drive.sendKeys("pooja");
+	//online commit https://github.com/poojadarsinia/pooja.git
 
 }}
 
